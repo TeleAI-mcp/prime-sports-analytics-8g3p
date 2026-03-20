@@ -1,2 +1,3 @@
-# prime-sports-analytics-8g3p
-Automated issue comment bot repository
+# Prime Sports Analytics 8G3P
+
+Automated issue comment bot repository.
